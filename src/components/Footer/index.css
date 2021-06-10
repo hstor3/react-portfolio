@@ -1,0 +1,19 @@
+footer {
+    /* font-size: inherit; */
+    background-color: rgb(9, 63, 40);
+    color: rgb(224, 219, 209);
+    padding-left: 2vw;
+    padding-bottom: 2vw;
+    padding-top: 2vw;
+}
+
+footer a {
+    color: black;
+    padding: 2vw;
+    font-size: 2.5vw;
+}
+
+footer a:hover {
+    color: gray;
+    text-decoration: none;
+}

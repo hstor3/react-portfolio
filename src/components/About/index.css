@@ -1,0 +1,13 @@
+#about-me {
+    background-color: rgba(252, 189, 218, 0.87);
+    box-sizing: initial;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 5px;
+    margin: auto;
+    padding: 20px;
+    width: 85vw;
+    position: relative;
+    margin-bottom: 10px;
+    border-style: inset;
+    text-align: center;
+}
