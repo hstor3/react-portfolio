@@ -1,10 +1,12 @@
 import React from 'react';
 import './index.css';
+// import '../../assets';
 
 function About() {
     return (
         <article id="about-me" className="stuff" alt="about me section">
         <h2>About Me</h2>
+        <img src='../../assets/pro-pic.JPG' alt='profile' />
         <p>
           Hi, I'm Heather! I am a full stack developer whith a great appreciation 
           for both the front and backend sides of apps. I enjoy creating

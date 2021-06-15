@@ -1,9 +1,9 @@
 import React from "react";
-import './index';
+// import './index.js';
+import gsap from "gsap";
+
 
 function Movement() {
-  // return
-
   gsap.fromTo(
     "#js",
     { opacity: 0 },
