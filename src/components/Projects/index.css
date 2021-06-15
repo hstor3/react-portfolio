@@ -16,8 +16,9 @@
 }
 
 h3 {
-  text-align: center;
-  padding: 3%;
+  /* text-align: center; */
+  /* padding: 3%; */
+  text-decoration: underline;
 }
 
 #work-stuff p {
@@ -43,7 +44,7 @@ h3 {
   border-radius: 2px;
 }
 
-.gitHub {
+.gitHub, .deployed-link {
   color: black;
   text-decoration: none;
 }
