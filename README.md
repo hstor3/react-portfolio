@@ -12,6 +12,6 @@ For my CSS file, I started by making everything disasterous colors so it would b
 
 ## LINK TO DEPLOYED WEBPAGE
 
-<a href='https://hstor3.github.io/portfolio/' target='_blank'>https://hstor3.github.io/portfolio/</a>
+<a href='https://hstor3.github.io/react-portfolio/' target='_blank'>https://hstor3.github.io/react-portfolio/</a>
 
 ## SCREENSHOT 
