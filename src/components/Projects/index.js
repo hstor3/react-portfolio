@@ -34,10 +34,12 @@ class ProjectPage extends Component {
     if (this.state.projects.length) {
       // return this.state.projects.map((project, index) => {
       const project = this.state.projects[this.state.projectIndex];
+      console.log(project)
+      console.log(process.env.PUBLIC_URL)
       return (
         // <div>
         <div className="card text-center" id="projectCard">
-          <img className="card-img" alt="images examples of the projects" src={this.state.projects.screenShot} />
+          <img className="card-img" alt="images examples of the projects" src={project.screenShot} />
            
           <div className="card-body"></div>
           <h3 className="card-title">{project.projectTitle}</h3>
