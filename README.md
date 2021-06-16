@@ -15,3 +15,5 @@ For my CSS file, I started by making everything disasterous colors so it would b
 <a href='https://hstor3.github.io/react-portfolio/' target='_blank'>https://hstor3.github.io/react-portfolio/</a>
 
 ## SCREENSHOT 
+
+![img](public/assets/react-app.gif)
