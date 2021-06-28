@@ -12,7 +12,7 @@ function NavigationBar() {
               <NavDropdown.Item eventKey='about' href='#about-me'>About</NavDropdown.Item>
               <NavDropdown.Item eventKey='about' href='#work-stuff'>Projects</NavDropdown.Item>
               <NavDropdown.Item eventKey='about' href='#contact-info'>Contact Info</NavDropdown.Item>
-              <NavDropdown.Item eventKey='about' href='#about-me'>Resume</NavDropdown.Item>
+              <NavDropdown.Item eventKey='about' href='https://docs.google.com/document/d/1BlfVQj222OgecC24HAn5Wlj2G8MJMamOeUhV4rkn0eA/edit?usp=sharing' target={'_blank'}>Resume</NavDropdown.Item>
             {/* </NavDropdown> */}
           {/* </Nav> */}
         </Navbar.Collapse>
