@@ -10,7 +10,7 @@ function Footer() {
           <a href="mailto: heatherstorseth3@gmail.com" target="_blank">
             <i className="fas fa-envelope"></i>
           </a>
-          <a href="./Resume.pdf" target="_blank">
+          <a href="./assets/resume2.0.pdf" target="_blank">
             <i className="fas fa-file"></i>
           </a>
           <a href="www.linkedin.com/in/heather-storseth-5571501b9" target="_blank">
